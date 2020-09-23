@@ -19,7 +19,7 @@
 
 project = 'CCHits'
 copyright = '2020, John Sprigss, Yannick Mauray, Dave Lee'
-author = 'John Spriggs, Yannick Mauray, and Dave Lee (in no particular order).'
+author = 'CCHits.net collective'
 
 
 # -- General configuration ---------------------------------------------------
