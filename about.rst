@@ -1,5 +1,3 @@
-.. _about:
-
 About CCHits.net, the FAQ and more
 ==================================
 

@@ -7,10 +7,11 @@ CHits.net - Where you make the charts
 =====================================
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 1
     :caption: Contents:
 
     about
+    doc
 
 .. Indices and tables
 .. ==================
